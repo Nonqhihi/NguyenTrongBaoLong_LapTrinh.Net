@@ -19,7 +19,7 @@ class Program
         {
             double result = 0;
 
-            // Sử dụng switch-case truyền thống để tương thích C# 7.3
+            
             switch (op)
             {
                 case '+':
